@@ -1,0 +1,18 @@
+.hero-image{
+    width: 400px;
+}
+
+.backg{
+    background-color: black;
+    color:white;
+
+}
+
+.tiny1{
+    width: 200px;
+    border-radius: 50%;
+}
+
+#about {
+    background-color: black;
+}
